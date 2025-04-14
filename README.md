@@ -3,8 +3,8 @@
 I'm a **Software Developer at Tramontina**, based in **Carlos Barbosa, RS, Brazil**.  
 I have a passion for building applications that solve real-world problems and enhance user experiences.
 
-- 💼 Focused on backend development with **C#**, **Informix**, and **Dapper**
-- 🌐 Experienced in frontend development with **React**, **Next**, **JavaScript**, and **TypeScript**
+- 💼 Focused on backend development
+- 🌐 Experienced in frontend development
 - 🛠️ Advocate for clean, efficient, and maintainable code
 - 🎯 Always exploring new technologies and improving team workflows
 
