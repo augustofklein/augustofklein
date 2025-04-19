@@ -1,18 +1,26 @@
-## 👋 Hello, I'm Augusto Fernando Klein
+# 👋 Hi, I'm Augusto Klein
 
-I'm a **Software Developer at Tramontina**, based in **Carlos Barbosa, RS, Brazil**.  
-I have a passion for building applications that solve real-world problems and enhance user experiences.
+Welcome to my GitHub profile! I'm a passionate developer focused on building clean and scalable solutions using modern technologies.
 
-- 💼 Focused on backend development
-- 🌐 Experienced in frontend development
-- 🛠️ Advocate for clean, efficient, and maintainable code
-- 🎯 Always exploring new technologies and improving team workflows
+---
 
-## 🛠️ Technologies & Tools I Use
+## 🧰 My Toolbox
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-![Informix](https://img.shields.io/badge/-Informix-blue?style=flat-square&logo=ibm)
-![Dapper](https://img.shields.io/badge/-Dapper-blueviolet?style=flat-square)
+- **Languages:** TypeScript, JavaScript, C#, SQL
+- **Frontend:** React, Next.js, Tailwind CSS, Styled Components
+- **Backend:** ASP.NET Core, Node.js
+- **Database:** PostgreSQL, Informix
+- **Dev Tools:** Git, VS Code, Docker, Dapper, MediatR
+
+---
+
+## 📊 My Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustofklein&layout=compact&theme=radical)
+
+---
+
+## 🛠️ Repo Stats
+
+![GitHub languages](https://img.shields.io/github/languages/top/augustofklein/augustofklein)
+![GitHub code size](https://img.shields.io/github/languages/code-size/augustofklein/augustofklein)
