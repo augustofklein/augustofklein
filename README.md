@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building cle
 
 ---
 
-## 🛠️ Repo Stats
+## 🛠️ My GitHub Stats
 
-![GitHub languages](https://img.shields.io/github/languages/top/augustofklein/augustofklein)
-![GitHub code size](https://img.shields.io/github/languages/code-size/augustofklein/augustofklein)
+![Augusto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=augustofklein&show_icons=true&theme=radical)
